@@ -1,0 +1,35 @@
+---
+title: Blog
+permalink: /blog/
+title: blog
+---
+
+<html>
+<head>
+<title>Blog</title>
+<link href='http://fonts.googleapis.com/css?family=Permanent+Marker' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<p><a href="http://www.google.com/">sdfsdfsdfsfs</a></p>
+
+<div id="allphotos">
+<script type="text/javascript" src="http://output34.rssinclude.com/output?type=js&amp;id=866207&amp;hash=172c9b63abe9a3eeca0a80f67f84c4a0"></script>
+</div>
+
+<div id="allblogtitles">
+	{% for post in site.posts %}
+		<a href="{{ post.url }}">
+		<div class="blogtitle-contain">
+			<div class="blogtitle">
+				{{ post.title }}
+			</div>
+		</div>
+		</a>
+	{% endfor %}
+</div>
+
+
+
+
+</body>
