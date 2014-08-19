@@ -8,7 +8,7 @@ Elliot Harmon
 Technology and storytelling enthusiast
 ---------------------
 
-Here are some things I've written:
+Here are some things I've "written":
 
 - Team Open interviews: [Sofya Polyakov](http://teamopen.cc/sofya/), [Thomas Bonte](http://teamopen.cc/thomas/), [Jonathan Mann](http://teamopen.cc/jonathan/)
 - [CC filmmakers and festivals change the rules](https://creativecommons.org/weblog/entry/36917)
