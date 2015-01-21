@@ -1,0 +1,21 @@
+---
+published: true
+layout: post
+title: Following the Potential of Fantastic Ideas
+---
+
+*The League of Automatic Music Composers 1978-1983*. New World Records.
+
+The late 1970's saw huge strides in technology for electronic composition and performance. New software and hardware innovations were blowing up the possibilities for aural exploration and becoming the playground for a generation of experimenters. But a few composers preferred to forego sophisticated instrumentation and continue messing with twenty-year-old circuit boards. Among them was a collective --- a more appropriate word than "ensemble" --- led by John Bischoff, Tim Perkis, and Jim Horton, with appearances by many others, most notably David Behrman and Rich Gold. The League of Automatic Music Composers sought a lack of control over their electronic works at a time when many composers were tightening the reins. With The League of Automatic Music Composers 1978-1983, recently released by New World Records, the music of this group can be heard by a much wider audience than was previously possible and grasped more clearly in the context of the American avant-garde.
+
+To understand the League's project, it's useful to consider the state of music in the Bay Area in the 1970's. Mills College's reputation in the innovative music world --- and its liberal open-studio policy --- made it a natural hangout for experimenters of all stripes and a hub for cross-pollination. When classically trained performers met musicians of other idioms --- punk rock, jazz, electronica --- improvisation became a common unit of exchange. An improvisational dialogue built momentum at Mills, California College of Arts and Crafts, and the New College of California, as well as numerous independent art spaces around San Francisco and Oakland.
+
+At a time when grants and institutional backing were not as freely available to musicians on the West Coast as they were in New York, musicians were free to push themselves and each other into darker and stranger territory. According to Perkis and Bischoff, “Since the audience was sparse, and opportunities for an actual career futile, why not spend one's efforts following the potential of fantastic ideas, rather than worrying about the practical applications of those ideas within traditional musical domains?”
+
+Behrman, Gold, Bischoff, and Horton --- the first iteration of the League --- sought to create computerized music with the organic nature of improvisation, a music in which the computers were also improvisers. Such immediacy was not possible with the synthesizer software of the time, so instead they built their own crude networks of microprocessors. In one such network, a computer would play a predetermined melody. A second computer, programmed with a simple just-intonation algorithm, would create harmonies to follow the first. A third would echo the key changes of the second, and the first would speed or slow its tempo to stay in time with the third. Once such a program was arranged, human interaction with the processors was kept to a minimum until a piece had run its course and the League adjusted the arrangement. The League's performances, informal affairs in and around Mills, would regularly go on for several hours, during which audience members would come and go, talk and ask questions.
+
+What I find most remarkable about The League of Automatic Music Composers 1978-1983 is, despite its conceptual loftiness, how utterly *listenable* the thing is. True, much of it is very difficult, but frequent are the moments when the various elements come together for minutes on end of sheer indulgence. The album deserves a place in the improvised music canon, if only because it captures sessions that humans should be jealous of.
+
+According to producer Jon Leidecker's notes, the 55-minute album began as 40 hours' worth of tapes, and reading that saddens me a little. Perhaps the brief CD fails to capture the leisureliness of the original performances, but instead it offers a comprehensive yet digestible account of a fascinating moment in experimental music.
+
+*Originally published in 21st Century Music*

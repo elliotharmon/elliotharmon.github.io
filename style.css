@@ -9,9 +9,6 @@
 	}
 
 #polaroids {
-	float: left;
-	min-width: 300px;
-	max-width: 100%;
 	}
 
 #homecontent {
@@ -22,10 +19,6 @@
 
 
 body {
-	background-color: #D0D0D0;
-	}
-
-body.wall {
 	background: #D0D0D0 url(/images/wall-2000.jpg) no-repeat top right;
 	background-attachment: fixed;
 	background-position: 100% 100%;
