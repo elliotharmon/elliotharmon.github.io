@@ -6,7 +6,7 @@ title: Elliot Harmon
 Elliot Harmon
 ====================
 
-Content developer<br />and online community organizer
+Content developer<br />and movement welder
 ---------------------
 
 Things I've written:
