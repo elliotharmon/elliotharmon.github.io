@@ -30,7 +30,7 @@ Videos with me in them:
 - [Digital Humanities Interviews](https://www.youtube.com/watch?v=IUIySaI93zc)
 - [Copyleft: All Wrongs Reversed](https://vimeo.com/66363470)
 
-[Read my blog](/blog).
+[Read my rarely-updated blog](/blog).
 
 {% include socialbutton.html domain="https://twitter.com/" path="elliotharmon" service="Twitter" %}
 {% include socialbutton.html domain="https://theoldreader.com/" path="profile/elliotharmon" service="The Old Reader" %}
