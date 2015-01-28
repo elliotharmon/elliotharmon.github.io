@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{ page.title }}</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="/grid12.css">
+<link href='/style.css' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700' rel='stylesheet' type='text/css'>
+</head>
+<body class="portfolio">
+<div class="container-fluid">
+	<div class="row">
+		<div class="hidden-xs hidden-sm col-md-2 col-lg-2"></div>
+		<div class="col-xs-12 col-sm-4 col-md-2 col-md-2">
+			<h1>Elliot Harmon</h1>
+			<h2>writing portfolio</h2>
+			<ul>
+				{% for category in site.data.writing-categories %}
+					<li><a href="{{ category.category | prepend: '#' }}">{{ category.category }}</a></li>
+				{% endfor %}
+			</ul>
+			{% include allbuttons.html %}
+		</div>
+		<div class="col-xs-12 col-sm-8 col-md-6 col-lg-6">
+			<div class="container-fluid">
+				<div class="row">
+						{% for category in site.data.writing-categories %}
+							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+								<h2><a name="{{ category.category }}">{{ category.category }}</a></h2>
+							</div>
+							{% for sample in site.data.writing %}
+								{% if sample.category == category.category %}
+									<a href="{{ sample.url }}">
+										<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 sample">
+											<h3 class="hidden-md hidden-lg">{{ sample.title | markdownify | remove: "<p>" | remove: "</p>" }}<br />
+											<span class="graytext hidden-md hidden-lg">{{ sample.source | markdownify | remove: "<p>" | remove: "</p>" | replace: ' ', '&nbsp;' }}</span></h3>
+											<p>{{ sample.excerpt | markdownify }}</p>
+											<h3 style="text-align: right; " class="hidden-xs hidden-sm">{{ sample.title | markdownify | remove: "<p>" | remove: "</p>" }} <span class="graytext">{{ sample.source | markdownify | remove: "<p>" | remove: "</p>" | replace: ' ', '&nbsp;' }}</h3>
+										</div>
+									</a>
+								{% endif %}
+							{% endfor %}
+						{% endfor %}
+				</div>
+			</div>
+		</div>
+		<div class="hidden-xs hidden-sm col-md-2 col-lg-2"></div>
+	</div>
+</div>
+</body>
+</html>
